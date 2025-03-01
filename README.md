@@ -14,8 +14,8 @@
 - 🎓 **CSE Student** passionate about software engineering and system design.
 - 💻 Currently mastering **Laravel, React, and System Architecture**.
 - 🏆 Solved over **200+ Competitive Programming Problems**.
-- 🛠️ Building scalable projects with **Laravel REST APIs** & modern frontend tools.
-- 📈 Exploring **DevOps, Cloud Deployments, and Microservices**.
+- 🛠️ Building scalable projects with **Laravel** & modern frontend tools.
+- 📈 Exploring **Software Design**.
 
 ---
 ## 💻 Competitive Programming
@@ -66,9 +66,7 @@ I love solving problems on competitive programming platforms. Here are some of m
 
 ## 📚 Latest Projects
 
-- 🏫 **Multi-tenant School Management System** - Built with Laravel & Tailwind.
-- 🏥 **Pharmacy Management System** - Complete inventory and sales tracking system.
-- 🚌 **Live Bus Tracking System** - Real-time university transportation tracker.
+- 🏫 **Reunion Registration System** - Built with Laravel & Tailwind.
 
 > 📂 Explore more in my **[Repositories](https://github.com/your-username?tab=repositories)**.
 
