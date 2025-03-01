@@ -26,17 +26,10 @@
 
 I love solving problems on competitive programming platforms. Here are some of my stats:
 
-### 🥇 **LeetCode**
-[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/your_username)](https://leetcode.com/your_username/)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-0A0A23?style=flat&logo=leetcode&logoColor=orange)](https://leetcode.com/your_username)
-
----
-
 ### 👑 **Codeforces**
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F1F1F?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your_username)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F1F1F?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jakaria92)
 
-[![Codeforces Rank](https://user-images.githubusercontent.com/yourusername/Codeforces-stats.svg)](https://codeforces.com/profile/your_username)
+[![Codeforces Rank](https://user-images.githubusercontent.com/jakaria92/Codeforces-stats.svg)](https://codeforces.com/profile/your_username)
 
 ---
 
@@ -44,11 +37,6 @@ I love solving problems on competitive programming platforms. Here are some of m
 [![CodeChef](https://img.shields.io/badge/CodeChef-5A2D23?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/your_username)
 
 [![CodeChef Rating](https://www.codechef.com/users/your_username)](https://www.codechef.com/users/your_username)
-
----
-
-### 🏆 **HackerRank**
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your_username)
 
 ## 🚀 Tech Stack
 
