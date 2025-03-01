@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **CSE Student** passionate about software engineering and system design.
+- 🎓 **CSE Student** Passionate about competitive programming and software engineering.
 - 💻 Currently mastering **Laravel, React, and System Architecture**.
 - 🏆 Solved over **200+ Competitive Programming Problems**.
 - 🛠️ Building scalable projects with **Laravel** & modern frontend tools.
