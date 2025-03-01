@@ -25,7 +25,8 @@ I love solving problems on competitive programming platforms. Here are some of m
 ### 👑 **Codeforces**
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F1F1F?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jakaria92)
 
-[![Codeforces Rank](https://user-images.githubusercontent.com/jakaria92/Codeforces-stats.svg)](https://codeforces.com/profile/jakaria92)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F1F1F?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jakaria92)
+
 
 ---
 
