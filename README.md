@@ -4,10 +4,6 @@
 <p align="center">🚀 Software Developer | 🎯 Problem Solver | 📚 Lifelong Learner</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jakariakha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00A6FF&center=true&vCenter=true&width=500&lines=Passionate+Developer+%26+Tech+Enthusiast;Competitive+Programmer;Backend+%26+Fullstack+Developer;Open+to+Exciting+Opportunities" alt="Typing SVG" />
 </p>
 
@@ -63,7 +59,6 @@ I love solving problems on competitive programming platforms. Here are some of m
 <div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jakariakha&show_icons=true&theme=tokyonight" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jakariakha&theme=tokyonight" />
 
 </div>
 
