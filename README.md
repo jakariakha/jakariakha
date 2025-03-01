@@ -4,7 +4,7 @@
 <p align="center">🚀 Software Developer | 🎯 Problem Solver | 📚 Lifelong Learner</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=jakariakha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
