@@ -1,7 +1,7 @@
 <!-- Premium GitHub Profile README -->
 
 <h1 align="center">👋 Hey there, I'm Jakaria Khan</h1>
-<p align="center">🚀 Software Developer | 🎯 Problem Solver | 📚 Lifelong Learner</p>
+<p align="center">🚀 Software Developer | 🎯 Problem Solver | 📚 Learner</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00A6FF&center=true&vCenter=true&width=500&lines=Passionate+Developer+%26+Tech+Enthusiast;Competitive+Programmer;Backend+%26+Fullstack+Developer;Open+to+Exciting+Opportunities" alt="Typing SVG" />
