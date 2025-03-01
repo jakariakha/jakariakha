@@ -26,7 +26,7 @@ I love solving problems on competitive programming platforms. Here are some of m
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F1F1F?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jakaria92)
 
 ### 🍳 **CodeChef**
-[![CodeChef](https://img.shields.io/badge/CodeChef-5A2D23?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/your_username)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5A2D23?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/khan92)
 
 ---
 ## 🚀 Tech Stack
