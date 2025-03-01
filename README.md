@@ -64,7 +64,7 @@ I love solving problems on competitive programming platforms. Here are some of m
 
 - 🎉 **Reunion Registration System** - Built with Laravel & Tailwind.
 
-> 📂 Explore more in my **[Repositories](https://github.com/your-username?tab=repositories)**.
+> 📂 Explore more in my **[Repositories](https://github.com/jakariakha?tab=repositories)**.
 
 ---
 
@@ -75,15 +75,6 @@ I love solving problems on competitive programming platforms. Here are some of m
 <a href="https://linkedin.com/in/jakariakha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
-
----
-
-## ⚡ Fun Fact
-
-When I'm not coding, you can find me:
-- 🔥 Exploring latest tech trends.
-- 🎮 Playing competitive online games.
-- 🌃 Late-night coding & debugging sessions.
 
 ---
 
