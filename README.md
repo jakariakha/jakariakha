@@ -62,7 +62,7 @@ I love solving problems on competitive programming platforms. Here are some of m
 
 ## 📚 Latest Projects
 
-- 🎉 **Reunion Registration System** - Built with Laravel & Tailwind.
+- 🎉 **Reunion Registration System** - Built with Laravel, MySQL & Tailwind.
 
 > 📂 Explore more in my **[Repositories](https://github.com/jakariakha?tab=repositories)**.
 
